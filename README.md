@@ -15,10 +15,8 @@ By completing this project, I am demonstrating proficiency in the following skil
 
 - **Documentation:** Crafting a README.md file to provide a clear and concise introduction to the project, explaining its purpose and the skills showcased.
 
-## How to Use
+## Link
 
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
-3. Explore the various recipes by clicking on the provided links.
+[Visit my website by clicking here!](index.html)
 
 Feel free to contribute or customize this project based on your interests or culinary preferences. Happy cooking!

@@ -17,6 +17,6 @@ By completing this project, I am demonstrating proficiency in the following skil
 
 ## Link
 
-[Visit my website by clicking here!](https://github.com/breno505/odin-recipes.git)
+[Visit my website by clicking here!](https://breno505.github.io/odin-recipes/)
 
 Feel free to contribute or customize this project based on your interests or culinary preferences. Happy cooking!
